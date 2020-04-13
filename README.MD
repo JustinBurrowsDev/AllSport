@@ -27,6 +27,6 @@ Repetition. Asking for help. Our team dynamic began to improve when we spent mor
 
 
 
-![React Photo Album 1](reactPhotoAlbum1.png)
-![React Photo Album 2](reactPhotoAlbum2.png)
-![React Photo Album 3](reactPhotoAlbum3.png)
+![ALL SPORTS 1](ALLSPORTS1.png)
+![ALL SPORTS 2](ALLSPORTS2.png)
+![ALL SPORTS 3](ALLSPORTS3.png)
