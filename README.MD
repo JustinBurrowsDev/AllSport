@@ -4,7 +4,7 @@
 
 ## Challenges I Faced? 
 
-There were so many challenges with this project it's almost difficult to begin. For starters our team dynamic wasn't the most in sync, there was trouble divvying up the work, and frankly we all were brand new to the work life changes we had to make. Initially we had an MVP that had far too many features to even to think of creating in three weeks. Not to mention smack dab in the middle of all of this, the whole world went into quarantine forcing our team to learn how to work remotely, and there were several changes to design and functionality throughout the process. Keeping things efficient, clean, and organized in the beginning proved troublesome.
+There were so many challenges with this project it's almost difficult to begin. For starters our team dynamic wasn't the most in sync, there was trouble divvying up the work, and frankly we all were brand new to the work life changes we had to make. Initially we had an MVP that had far too many features to even to think of creating in three weeks. Not to mention smack dab in the middle of all of this, the whole world went into quarantine forcing our team to learn how to work remotely, and there were several changes to design and functionality throughout the process. Keeping things efficient, clean, and organized in the beginning proved troublesome. 
 
 ## How Did I Over Come Those Challenges?
 
